@@ -47,6 +47,10 @@ A planilha gerada serve como fonte de dados para um dashboard criado no Power BI
 ## 📅 Atualizações
 Você pode agendar a execução do script com o Agendador de Tarefas do Windows ou cron (Linux) para manter os dados sempre atualizados automaticamente.
 
+## 📷 Visual do Dashboard
+
+![Visual do Dashboard](./Dashboard_vendas.png)
+
 ---
 
 ### 📫 Contato
