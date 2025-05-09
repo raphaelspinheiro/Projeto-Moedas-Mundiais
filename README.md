@@ -49,7 +49,7 @@ Você pode agendar a execução do script com o Agendador de Tarefas do Windows 
 
 ## 📷 Visual do Dashboard
 
-![Visual do Dashboard](./Dashboard_vendas.png)
+![Visual do Dashboard](./Dashboard.jpeg)
 
 ---
 
